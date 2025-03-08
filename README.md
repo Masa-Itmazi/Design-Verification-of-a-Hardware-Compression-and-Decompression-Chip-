@@ -6,6 +6,6 @@ This project verifies a dictionary-based compression and decompression chip usin
 * Error Handling: Reports errors when the dictionary is full (compression) or an invalid index is received (decompression).
 * Verification Approach: Implements Universal Verification Methodology (UVM) for functional verification, ensuring correctness and coverage.
 ## Project Structure:
-Reference Model: Defines expected chip behavior.
-Verification Plan: Outlines test scenarios and coverage goals.
-UVM Testbench: A complete test environment with assertions, coverage collection, and simulation results.
+* Reference Model: Defines expected chip behavior.
+* Verification Plan: Outlines test scenarios and coverage goals.
+* UVM Testbench: A complete test environment with assertions, coverage collection, and simulation results.
