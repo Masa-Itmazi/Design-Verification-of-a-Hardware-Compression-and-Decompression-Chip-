@@ -9,3 +9,4 @@ This project verifies a dictionary-based compression and decompression chip usin
 * Reference Model: Defines expected chip behavior.
 * Verification Plan: Outlines test scenarios and coverage goals.
 * UVM Testbench: A complete test environment with assertions, coverage collection, and simulation results.
+[ENCS5337+Project+-+Design+Verification+of+a+Hardware+Compression+Decompression+Chip.pdf](https://github.com/user-attachments/files/19145842/ENCS5337%2BProject%2B-%2BDesign%2BVerification%2Bof%2Ba%2BHardware%2BCompression%2BDecompression%2BChip.pdf)
